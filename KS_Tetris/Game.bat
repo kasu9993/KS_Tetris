@@ -1,0 +1,1 @@
+@KS_Tetris\bin\Release\netcoreapp3.1\KS_Tetris.exe
